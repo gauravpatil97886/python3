@@ -1,5 +1,5 @@
+python
 # **Remove element from first position and last position from list..**
-
 
 l1 = [34,'svkm',15,'s',21] 
 print("given list =",l1) 
