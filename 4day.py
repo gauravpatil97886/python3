@@ -21,6 +21,21 @@ for i in a:
    if (len(i)> n) :
       b.append(i)
 print("list of words : ",b)
+
+
+
+
+
+
+
+
+
+
+l = [3,3,3,3]
+if not l:
+  print("List is empty")
+else:
+    print ("list is not empty")
       
       
       
