@@ -9,12 +9,12 @@ ___________________________________
 ## 8 World-Class Software Companies That Use Python
 
 - [Google](https://www.google.com/)
-- Facebook.
-- Instagram.
-- Spotify.
-- Quora.
-- Netflix.
-- Dropbox.
+- [Facebook]()
+- [Instagram.]()
+- [Spotify].()
+-[ Quora.]()
+- [Netflix.]()
+- [Dropbox.]()
 
 #### It is used for:
 
