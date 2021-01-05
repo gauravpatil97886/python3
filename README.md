@@ -70,3 +70,6 @@ Ordered
 - When we say that lists are ordered, it means that the items have a defined order, and that order will not change.
 - If you add new items to a list, the new items will be placed at the end of the list.
 --------------
+
+## CONTACT
+<a href="mailto:gauravpatil97886@gmail.com"><img src="https://image.flaticon.com/icons/png/512/281/281769.png" width=50 height=50/></a>
