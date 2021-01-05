@@ -6,6 +6,15 @@ ___________________________________
 ___________________________________
 
 **Python** is a popular programming language. It was created by **Guido van Rossum**, and released in **1991**.
+## 8 World-Class Software Companies That Use Python
+
+- [Google](https://www.google.com/)
+- Facebook.
+- Instagram.
+- Spotify.
+- Quora.
+- Netflix.
+- Dropbox.
 
 #### It is used for:
 
