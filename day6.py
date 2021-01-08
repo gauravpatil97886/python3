@@ -30,4 +30,17 @@ if ' '.join(map(str, B)) in ' '.join(map(str, A * 2)):
 else:
     print("lists are not circularly identical")
 
-    --------------------------------------------
+--------------------------------------------
+
+# Write a  program to find the second smallest number in a list
+   
+   list1 = [1,100,200,2000,6000]
+
+list1.sort()
+
+print("Second smallest element is:", list1[1])
+
+
+
+--------------------
+
