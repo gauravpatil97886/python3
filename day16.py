@@ -1,6 +1,4 @@
-
-
---------------------------------
+## Python
 
 1.  Write a program to create a dictionary from two lists without losing duplicate values.
 Program:--
