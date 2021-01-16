@@ -45,4 +45,19 @@ Resultant dictionary is= {1: 10, 2: 20, 3: 20, 4: 30}
 
 ---------
 ---------------
+3. Write a program to replace dictionary values with their average
+Program:--
+dict = eval(input("Enter dict ")) 
+print("The original dictionary is : " + str(dict)) 
+updict = eval(input("Enter replace dict values "))  
+for sub in dict: 
+    if sub in updict: 
+        dict[sub]  = updict[sub]   
+print("The updated dictionary is " + str(dict))  
+Output:--
+Enter dict {'a':10,'b':20,'c':30}
+The original dictionary is : {'a': 10, 'b': 20, 'c': 30}
+Enter replace dict values {'a':50,'c':60}
+The updated dictionary is {'a': 50, 'b': 20, 'c': 60}
+-------------------------------------------
 
