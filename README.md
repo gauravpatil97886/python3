@@ -74,5 +74,26 @@ Ordered
 - If you add new items to a list, the new items will be placed at the end of the list.
 --------------
 
+#### Examples of expressions in the interactive shell:
+
+>>> 2 + 3 * 6
+20
+
+>>> (2 + 3) * 6
+30
+
+>>> 2 ** 8
+256
+
+>>> 23 // 7
+3
+
+>>> 23 % 7
+2
+>>> (5 - 1) * ((7 + 1) / (3 - 1))
+16.0
+
 ## CONTACT
 <a href="mailto:gauravpatil97886@gmail.com"><img src="https://image.flaticon.com/icons/png/512/281/281769.png" width=50 height=50/></a>
+
+
