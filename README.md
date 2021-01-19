@@ -1,9 +1,4 @@
 # python3
-
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZPornUMAID3jUQzipdGvezELjvegOwPO7_A&usqp=CAU)
-
-
-
 ___________________________________
 ### Beginner level
 ___________________________________
@@ -90,6 +85,7 @@ Ordered
 
 >>> 23 % 7
 2
+
 >>> (5 - 1) * ((7 + 1) / (3 - 1))
 16.0
 
