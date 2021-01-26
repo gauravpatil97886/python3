@@ -89,7 +89,5 @@ Ordered
 >>> (5 - 1) * ((7 + 1) / (3 - 1))
 16.0
 
-## CONTACT
-<a href="mailto:gauravpatil97886@gmail.com"><img src="https://image.flaticon.com/icons/png/512/281/281769.png" width=50 height=50/></a>
 
 
