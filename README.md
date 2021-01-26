@@ -67,27 +67,4 @@ ____________________________________
 Ordered
 - When we say that lists are ordered, it means that the items have a defined order, and that order will not change.
 - If you add new items to a list, the new items will be placed at the end of the list.
---------------
-
-#### Examples of expressions in the interactive shell:
-
->>> 2 + 3 * 6
-20
-
->>> (2 + 3) * 6
-30
-
->>> 2 ** 8
-256
-
->>> 23 // 7
-3
-
->>> 23 % 7
-2
-
->>> (5 - 1) * ((7 + 1) / (3 - 1))
-16.0
-
-
-
+--
