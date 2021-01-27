@@ -15,3 +15,19 @@ Pandas allows us to analyze big data and make conclusions based on statistical t
 Pandas can clean messy data sets, and make them readable and relevant.
 
 Relevant data is very important in data science.
+
+
+## What Can Pandas Do?
+
+
+- Pandas gives you answers about the data. Like:
+
+## Is there a correlation between two or more columns?
+
+
+- What is average value?
+- Max value?
+- Min value?
+- Pandas are also able to delete rows that are not relevant, or contains wrong values, like empty or NULL values. This is called cleaning the data.
+
+----------------------------
