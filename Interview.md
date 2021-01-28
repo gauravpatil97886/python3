@@ -23,3 +23,45 @@ Python finds use in many spheres – web applications, automation, scientific mo
 
 
 -------------------
+
+## [Q4.Python an interpreted language.]()
+
+Ans: An interpreted language is any programming language which is not in machine-level code before runtime. Therefore, Python is an interpreted language.
+
+Q5.What is pep 8?
+Ans: PEP stands for Python Enhancement Proposal. It is a set of rules that specify how to format Python code for maximum readability.
+
+## [Q6. How is memory managed in Python?]()
+Ans: Memory is managed in Python in the following ways:
+
+Memory management in python is managed by Python private heap space. All Python objects and data structures are located in a private heap.
+The programmer does not have access to this private heap. The python interpreter takes care of this instead.
+The allocation of heap space for Python objects is done by Python’s memory manager. The core API gives access to some tools for the programmer to code.
+Python also has an inbuilt garbage collector, which recycles all the unused memory and so that it can be made available to the heap space.
+
+
+-------------------------------
+
+## [Q7. What is namespace in Python?]()
+
+**Ans:** A namespace is a naming system used to make sure that names are unique to avoid naming conflicts.
+
+----------------------
+
+## [Q8. What is PYTHONPATH?]()
+Ans: It is an environment variable which is used when a module is imported. Whenever a module is imported, PYTHONPATH is also looked up to check for the presence of the imported modules in various directories. The interpreter uses it to determine which module to load.
+
+Q9. What are python modules? Name some commonly used built-in modules in Python?
+Ans: Python modules are files containing Python code. This code can either be functions classes or variables. A Python module is a .py file containing executable code.
+
+Some of the commonly used built-in modules are:
+
+os
+sys
+math
+random
+data time
+JSON
+
+
+
