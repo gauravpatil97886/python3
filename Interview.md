@@ -49,19 +49,25 @@ Python also has an inbuilt garbage collector, which recycles all the unused memo
 ----------------------
 
 ## [Q8. What is PYTHONPATH?]()
+
 Ans: It is an environment variable which is used when a module is imported. Whenever a module is imported, PYTHONPATH is also looked up to check for the presence of the imported modules in various directories. The interpreter uses it to determine which module to load.
 
-Q9. What are python modules? Name some commonly used built-in modules in Python?
+---------------
+
+## [Q9. What are python modules? Name some commonly used built-in modules in Python?]()
+
 Ans: Python modules are files containing Python code. This code can either be functions classes or variables. A Python module is a .py file containing executable code.
 
-Some of the commonly used built-in modules are:
+**Some of the commonly used built-in modules are:**
 
-os
-sys
-math
-random
-data time
-JSON
+- os
+- sys
+- math
+- random
+- data time
+- JSON
+
+---------------
 
 
 
