@@ -80,6 +80,8 @@ Ans: Python modules are files containing Python code. This code can either be fu
 - Memory management in Python is handled by the Python Memory Manager. The memory allocated by the manager is in form of a private heap space dedicated for Python. All Python objects are stored in this heap and being private, it is inaccessible to the programmer. Though, python does provide some core API functions to work upon the private heap space.
 Additionally, Python has an in-built garbage collection to recycle the unused memory for the private heap space.
 
+![](https://assets.interviewbit.com/assets/skill_interview_questions/python/python-memory-manager-8bac90ad8ae62383ae0d09cd7b50849bfe37278f9c82d66ea13597239cbd62fe.png.gz)
+
 ---------------------
 
 
