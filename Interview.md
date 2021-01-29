@@ -73,10 +73,14 @@ Ans: Python modules are files containing Python code. This code can either be fu
 
 - PEP stands for Python Enhancement Proposal. A PEP is an official design document providing information to the Python Community, or describing a new feature for Python or its processes. PEP 8 is especially important since it documents the style guidelines for Python Code. Apparently contributing in the Python open-source community requires you to follow these style guidelines sincerely and strictly.
 
+----------------------
+
 ##  [How is memory managed in Python?]()
 
 - Memory management in Python is handled by the Python Memory Manager. The memory allocated by the manager is in form of a private heap space dedicated for Python. All Python objects are stored in this heap and being private, it is inaccessible to the programmer. Though, python does provide some core API functions to work upon the private heap space.
 Additionally, Python has an in-built garbage collection to recycle the unused memory for the private heap space.
+
+---------------------
 
 
 
