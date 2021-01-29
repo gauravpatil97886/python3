@@ -80,9 +80,24 @@ Ans: Python modules are files containing Python code. This code can either be fu
 - Memory management in Python is handled by the Python Memory Manager. The memory allocated by the manager is in form of a private heap space dedicated for Python. All Python objects are stored in this heap and being private, it is inaccessible to the programmer. Though, python does provide some core API functions to work upon the private heap space.
 Additionally, Python has an in-built garbage collection to recycle the unused memory for the private heap space.
 
-![](https://assets.interviewbit.com/assets/skill_interview_questions/python/python-memory-manager-8bac90ad8ae62383ae0d09cd7b50849bfe37278f9c82d66ea13597239cbd62fe.png.gz)
+![](https://miro.medium.com/max/656/1*xIJgwPGI-6yjKCMogU152w.png)
 
 ---------------------
+
+## [What are Python namespaces? Why are they used?]()
+
+
+- A namespace in Python ensures that object names in a program are unique and can be used without any conflict. Python implements these namespaces as dictionaries with 'name as key' mapped to a corresponding 'object as value'. This allows for multiple namespaces to use the same name and map it to a separate object. A few examples of namespaces are as follows:
+
+- Local Namespace includes local names inside a function. the namespace is temporarily created for a function call and gets cleared when the function returns.
+Global Namespace includes names from various imported packages/ modules that is being used in the current project. This namespace is created when the package is imported in the script and lasts until the execution of the script.
+
+- Built-in Namespace includes built-in functions of core Python and built-in names for various types of exceptions.
+Lifecycle of a namespace depends upon the scope of objects they are mapped to. If the scope of an object ends, the lifecycle of that namespace comes to an end. Hence, it isn't possible to access inner namespace objects from an outer namespace.
+
+
+
+--------------
 
 
 
