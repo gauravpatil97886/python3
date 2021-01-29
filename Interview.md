@@ -94,11 +94,22 @@ Global Namespace includes names from various imported packages/ modules that is 
 
 - Built-in Namespace includes built-in functions of core Python and built-in names for various types of exceptions.
 Lifecycle of a namespace depends upon the scope of objects they are mapped to. If the scope of an object ends, the lifecycle of that namespace comes to an end. Hence, it isn't possible to access inner namespace objects from an outer namespace.
-
+![](https://assets.interviewbit.com/assets/skill_interview_questions/python/python-namespaces-4d66efcaf95c5b42452c3e14d90c4aa4873c577c8cf72e0f2d9a8bbec9ec5cba.png.gz)
 
 
 --------------
 
+##  [What is Scope in Python?]()
+
+- Every object in Python functions within a scope. A scope is a block of code where an object in Python remains relevant. Namespaces uniquely identify all the objects inside a program. However, these namespaces also have a scope defined for them where you could use their objects without any prefix. A few examples of scope created during code execution in Python are as follows:
+
+- A local scope refers to the local objects available in the current function.
+- A global scope refers to the objects available throught the code execution since their inception.
+- A module-level scope refers to the global objects of the current module accessible in the program.
+- An outermost scope refers to all the built-in names callable in the program. The objects in this scope are searched last to find the name referenced.
+**Note: Local scope objects can be synced with global scope objects using keywords such as global.**
+
+---------------------
 
 
 
