@@ -134,6 +134,12 @@ Lifecycle of a namespace depends upon the scope of objects they are mapped to. I
 --------------------
 
 
+Python’s interpreted nature imposes a speed penalty on it.
+While Python is great for a lot of things, it is weak in mobile computing, and in browsers.
+Being dynamically-typed, Python uses duck-typing (If it looks like a duck, it must be a duck). This can raise runtime errors.
+Python has underdeveloped database access layers. This renders it a less-than-perfect choice for huge database applications.
+And then, well, of course. Being easy makes it addictive. Once a Python-coder, always a Python coder.
+
 
 
 
