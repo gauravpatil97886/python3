@@ -111,6 +111,17 @@ Lifecycle of a namespace depends upon the scope of objects they are mapped to. I
 
 ---------------------
 
+### What are negative indices?
+
++> Let’s take a list for this.
+
+      >>> mylist=[0,1,2,3,4,5,6,7,8]
+- A negative index, unlike a positive one, begins searching from the right.
+
+            >>> mylist[-3]
+6
+
+---------------
 
 
 
