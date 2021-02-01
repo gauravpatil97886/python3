@@ -133,5 +133,12 @@ Lifecycle of a namespace depends upon the scope of objects they are mapped to. I
 
 --------------------
 
+### How would you declare a comment in Python?
+
+- Unlike languages like C++, Python does not have multiline comments. All it has is octothorpe (#). Anything following a hash is considered a comment, and the interpreter ignores it.
+
+        >>> #line 1 of comment
+           >>> #line 2 of comment
+- In fact, you can place a comment anywhere in your code. You can use it to explain your code.
 
 
